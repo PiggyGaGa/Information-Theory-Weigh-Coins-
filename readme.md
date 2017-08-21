@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # 问题重述
 一般性假币称重鉴别问题：设有n枚硬币，其中仅有一枚假币，在已知或未知假币与真比之间重量关系两种情况下，通过无砝码天平称重的方法鉴别假币，求所需的最少称重次数。
 # 题目要求
